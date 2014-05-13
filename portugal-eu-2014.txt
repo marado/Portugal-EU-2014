@@ -28,9 +28,122 @@ The following candidates/parties promote the Digital Freedoms [2]:
 The following candidates/parties support Free Software [3]:
  * BE
 
+= European Treaties =
+
+A single member state should be able to block a treaty change, even if all the other members states agree to it?
+
+These parties agree:
+ * BE
+ * PCTP/MRPP
+ * CDU
+
+These parties neither agree or disagree, or have no oppinion:
+ * PAN
+ * MPT
+
+These parties disagree:
+ * Livre
+ * PS
+ * AP
+
+Source: [4]
+
+= Immigrants =
+
+The right of EU citizens to work in Portugal should be restricted?
+
+These parties disagree:
+ * Livre
+ * BE
+ * PCTP-MRPP
+ * CDU
+ * PAN
+ * PS
+ * MPT
+ * AP
+
+Source: [4]
+
+= EU foreign policy =
+
+Should there be a common EU foreign policy even if this limits the capacity of Portugal to act independently?
+
+These parties agree:
+ * PS
+ * AP
+
+These parties neither agree or disagree, or have no oppinion:
+ * Livre
+
+These parties disagree:
+ * BE
+ * PCTP/MRPP
+ * CDU
+ * PAN
+ * MPT
+
+Source: [4]
+
+= Inter-country wealth =
+
+Should EU redistribute resources from richer to poorer EU regions?
+
+These parties agree:
+ * Livre
+ * BE
+ * PCTP/MRPP
+ * CDU
+ * PAN
+ * PS
+ * MPT
+ * AP
+
+Source: [4]
+
+= Portugal and EU =
+
+Has EU membership been a bad thing for Portugal?
+
+These parties agree:
+ * Livre
+ * BE
+ * PCTP/MRPP
+ * CDU
+ * PAN
+ * MPT
+
+These parties disagree:
+ * PS
+ * AP
+
+Source: [4]
+
+= EU treaties = 
+
+Should EU treaties be decided by the national parliament rather than by citizens in a referendum?
+
+These parties agree:
+ * AP
+
+These parties neither agree or disagree, or have no oppinion:
+ * PAN
+ * PS
+
+These parties disagree:
+ * Livre
+ * BE
+ * PCTP/MRPP
+ * CDU
+ * MPT
+
+Source: [4]
+
 = Other issues =
 
-This document is a work in progress. One of the things I intend to do is to dissect interviews, debates and so on.
+This document is a work in progress. One of the things I intend to do is to
+dissect interviews, debates and so on. (Also: the source [4] isn't exhausted
+yet).
+
 In order to to accomplish that...
 
 == TVI interviews ==
@@ -49,14 +162,17 @@ In order to to accomplish that...
 |         | BE | CDU | AP | Livre | MAS | PND | MPT | PS | PCTP/MRPP | PDA | PNR | POUS | PAN | PPM | PPV | PTP |
 | Digital |  1 |   0 |  0 |     1 |   0 |   0 |   0 |  0 |         0 |   0 |   0 |    0 |   0 |   0 |   0 |   0 |
 | Free SW |  1 |   0 |  0 |     0 |   0 |   0 |   0 |  0 |         0 |   0 |   0 |    0 |   0 |   0 |   0 |   0 |
+| ...     |
 | Total*  |  2 |   0 |  0 |     1 |   0 |   0 |   0 |  0 |         0 |   0 |   0 |    0 |   0 |   0 |   0 |   0 |
 
 * Of course, the points attributed are regarding my own political views. I'm
   certain, tho, that with the data and sources in this document, you'll be able
   to calculate this table according to your own political views.
+  The idea, in the future, is to have this table dynamically generated.
 
 = References =
 
 [1] http://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_2014_%28Portugal%29
 [2] https://www.wepromise.eu/pt/country/22 (last seen at 11/05)
 [3] http://freesoftwarepact.eu/europarl2014//?action=liste_candidats&circonscription=22&parti=0&submit=OK (last seen at 11/05)
+[4] http://eu5.euvox.eu/pt/ (last seen at 13/05)
