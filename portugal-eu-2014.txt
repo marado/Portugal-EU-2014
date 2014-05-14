@@ -138,6 +138,24 @@ These parties disagree:
 
 Source: [4]
 
+= Integration =
+
+Has European integration gone too far?
+
+These parties agree:
+ * BE
+ * PCTP-MRPP
+ * CDU
+
+These parties disagree:
+ * Livre
+ * PAN
+ * PS
+ * MPT
+ * AD
+
+Source: [4]
+
 = Other issues =
 
 This document is a work in progress. One of the things I intend to do is to
