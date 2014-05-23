@@ -19,14 +19,16 @@
 
 = Digital Freedoms =
 
-The following candidates/parties promote the Digital Freedoms [2]:
- * BE
- * Livre
+The following candidates/parties promote the Digital Freedoms:
+ * BE [2]
+ * Livre [2]
+ * CDU [5]
 
 = Free Software =
 
-The following candidates/parties support Free Software [3]:
- * BE
+The following candidates/parties support Free Software:
+ * BE [3]
+ * CDU [5]
 
 = European Treaties =
 
@@ -162,18 +164,6 @@ This document is a work in progress. One of the things I intend to do is to
 dissect interviews, debates and so on. (Also: the source [4] isn't exhausted
 yet).
 
-In order to to accomplish that...
-
-== TVI interviews ==
-
-* BE - http://www.tvi.iol.pt/videos/entrevista-europeias-candidata-mariza-matias/14136698
-* AP - http://www.tvi.iol.pt/videos/entrevista-europeias-candidato-paulo-rangel/14136681
-* PNR - http://www.tvi.iol.pt/videos/entrevista-europeias-candidato-humberto-oliveira/14136593
-* PS - http://www.tvi.iol.pt/videos/entrevista-europeias-candidato-francisco-assis/14136586
-* MAS - http://www.tvi.iol.pt/videos/entrevista-europeias-gil-garcia-mas/14136536
-* CDU - http://www.tvi.iol.pt/videos/entrevista-europeias-joao-ferreira-pcp/14135628
-* Livre - http://www.tvi.iol.pt/videos/entrevista-europeias-candidato-rui-tavares-livre/14135988
-...
 
 = Summary table =
 
@@ -194,3 +184,5 @@ In order to to accomplish that...
 [2] https://www.wepromise.eu/pt/country/22 (last seen at 11/05)
 [3] http://freesoftwarepact.eu/europarl2014//?action=liste_candidats&circonscription=22&parti=0&submit=OK (last seen at 11/05)
 [4] http://eu5.euvox.eu/pt/ (last seen at 13/05)
+[5] personal info (like private e-mails exchanged). I know this isn't very useful for transparency purposes, but it's 
+    the best I can do in the available time.
