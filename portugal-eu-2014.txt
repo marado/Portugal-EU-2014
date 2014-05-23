@@ -158,11 +158,29 @@ These parties disagree:
  
 Source: [4]
 
+= External loans =
+
+External loans from institutions such as the IMF are a good solution to crisis situations
+
+These parties agree:
+* PAN
+* PS
+* AD
+
+These parties disagree:
+* Livre
+* BE
+* CDU
+* PCTP/MRPP
+* MPT
+
+Source: [4]
+
 = Other issues =
 
-This document is a work in progress. One of the things I intend to do is to
-dissect interviews, debates and so on. (Also: the source [4] isn't exhausted
-yet).
+This document is a work in progress (at least until the reflection day begins). 
+One of the things I intend to do is to dissect interviews, debates and so on. 
+(Also: the source [4] isn't exhausted yet).
 
 = Summary table =
 
@@ -178,6 +196,7 @@ This document, for a lack of time, doesn't have any information at all about the
 [2] https://www.wepromise.eu/pt/country/22 (last seen at 11/05)
 [3] http://freesoftwarepact.eu/europarl2014//?action=liste_candidats&circonscription=22&parti=0&submit=OK 
     (last seen at 11/05)
-[4] http://eu5.euvox.eu/pt/ (last seen at 13/05)
+[4] http://eu5.euvox.eu/pt/ (last seen at 13/05). Be careful, they don't publish their sources, and personal messages
+    exchanges show me that they have some errors in their answers for some of the parties
 [5] personal info (like private e-mails exchanged). I know this isn't very useful for transparency purposes, but it's 
-    the best I can do in the available time.
+    the best I can do in the available time
