@@ -149,16 +149,7 @@ yet).
 
 = Summary table =
 
-|         | BE | CDU | AP | Livre | MAS | PND | MPT | PS | PCTP/MRPP | PDA | PNR | POUS | PAN | PPM | PPV | PTP |
-| Digital |  1 |   0 |  0 |     1 |   0 |   0 |   0 |  0 |         0 |   0 |   0 |    0 |   0 |   0 |   0 |   0 |
-| Free SW |  1 |   0 |  0 |     0 |   0 |   0 |   0 |  0 |         0 |   0 |   0 |    0 |   0 |   0 |   0 |   0 |
-| ...     |
-| Total*  |  2 |   0 |  0 |     1 |   0 |   0 |   0 |  0 |         0 |   0 |   0 |    0 |   0 |   0 |   0 |   0 |
-
-* Of course, the points attributed are regarding my own political views. I'm
-  certain, tho, that with the data and sources in this document, you'll be able
-  to calculate this table according to your own political views.
-  The idea, in the future, is to have this table dynamically generated.
+The idea, in the future, is to have a table dynamically generated.
 
 = References =
 
