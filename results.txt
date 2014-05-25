@@ -12,6 +12,20 @@
 
 == 2014 ==
 
+=== Estimate ===
+
+| Party | Seats | Difference |
+| PS    |  7-9  |  0 - +2    |
+| AD    |  6-8  | -4 - -2    |
+| CDU   |  3-4  | +1 - +2    |
+| MPT   |  1-2  | +1 - +2    |
+| BE    |  1-2  | -1 - -2    |
+| Total |  21   |   -1       |
+
+Source [20:10] http://www.rtp.pt/noticias/index.php?article=740112&tm=9&layout=121&visual=49
+
+=== Final result ===
+
 | Party | Seats | Difference |
 | ...   | ...   | ...        |
 | Total | 21    | -1         |
