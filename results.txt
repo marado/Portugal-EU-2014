@@ -32,7 +32,7 @@ Source [20:10] http://www.rtp.pt/noticias/index.php?article=740112&tm=9&layout=1
 | CDU   |  2    |  0         |
 | MPT   |  1    | +1         |
 | BE    |  0    | -3         |
-| TBA   |  8    |            |
+| TBA   |  7    |            |
 | Total | 21    | -1         |
 
 = The European results =
