@@ -1,17 +1,38 @@
-The Portuguese results:
+= The Portuguese results =
 
-= 2009 (for comparison) =
+== 2009 (for comparison) ==
 
 | Party | Seats |
-| PSD   | 8     |
-| PS    | 7     |
-| BE    | 3     |
-| CDU   | 2     |
-| CDS/PP| 2     |
+| PSD   |  8    |
+| PS    |  7    |
+| BE    |  3    |
+| CDU   |  2    |
+| CDS/PP|  2    |
 | Total | 22    |
 
-= 2014 =
+== 2014 ==
 
 | Party | Seats | Difference |
 | ...   | ...   | ...        |
 | Total | 21    | -1         |
+
+= The European results =
+
+== 2009 (for comparison) ==
+
+| Party        | Seats |
+| EPP          | 265   |
+| S&D          | 184   |
+| ALDE         |  84   |
+| Greens – EFA |  55   |
+| ECR          |  54   |
+| EUL-NGL      |  35   |
+| EFD          |  32   |
+| Non-Inscrits |  27   |
+| Total        | 736   |
+
+== 2014 ==
+
+| Party        | Seats | Difference |
+| ...          | ...   | ...        |
+| Total        | 751   | +15        |     
