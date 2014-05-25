@@ -27,7 +27,7 @@ Source [20:10] http://www.rtp.pt/noticias/index.php?article=740112&tm=9&layout=1
 === Final result (being updated as we go) ===
 
 | Party | Seats | Difference |
-| PS    |  5    | -2         |
+| PS    |  6    | -1         |
 | AD    |  5    | -5         |
 | CDU   |  2    |  0         |
 | MPT   |  1    | +1         |
@@ -50,6 +50,8 @@ Source [20:10] http://www.rtp.pt/noticias/index.php?article=740112&tm=9&layout=1
 | Non-Inscrits |  27   |
 | Total        | 736   |
 
+== 2014 ==
+
 === Estimate ===
 
 | Party        | Seats | Difference |
@@ -64,7 +66,7 @@ Source [20:10] http://www.rtp.pt/noticias/index.php?article=740112&tm=9&layout=1
 | Others       |  56   | +56        |
 | Total        | 751   | +15        |
 
-== 2014 ==
+=== Final result (being updated as we go) ===
 
 | Party        | Seats | Difference |
 | ...          | ...   | ...        |
