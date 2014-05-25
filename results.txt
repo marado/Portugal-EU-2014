@@ -1,0 +1,17 @@
+The Portuguese results:
+
+= 2009 (for comparison) =
+
+| Party | Seats |
+| PSD   | 8     |
+| PS    | 7     |
+| BE    | 3     |
+| CDU   | 2     |
+| CDS/PP| 2     |
+| Total | 22    |
+
+= 2014 =
+
+| Party | Seats | Difference |
+| ...   | ...   | ...        |
+| Total | 21    | -1         |
