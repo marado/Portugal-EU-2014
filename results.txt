@@ -50,6 +50,20 @@ Source [20:10] http://www.rtp.pt/noticias/index.php?article=740112&tm=9&layout=1
 | Non-Inscrits |  27   |
 | Total        | 736   |
 
+=== Estimate ===
+
+| Party        | Seats | Difference |
+| EPP          | 211   | -54        |
+| S&D          | 193   | + 9        |
+| ALDE         |  74   | -10        |
+| Greens - EFA |  58   | + 3        |
+| ECR          |  39   | -15        |
+| GUE-NGL      |  47   | +12        |
+| EFD          |  33   | + 1        |
+| Non-Inscrits |  40   | +13        |
+| Others       |  56   | +56        |
+| Total        | 751   | +15        |
+
 == 2014 ==
 
 | Party        | Seats | Difference |
