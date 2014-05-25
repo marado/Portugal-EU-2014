@@ -24,10 +24,15 @@
 
 Source [20:10] http://www.rtp.pt/noticias/index.php?article=740112&tm=9&layout=121&visual=49
 
-=== Final result ===
+=== Final result (being updated as we go) ===
 
 | Party | Seats | Difference |
-| ...   | ...   | ...        |
+| PS    |  5    | -2         |
+| AD    |  5    | -5         |
+| CDU   |  2    |  0         |
+| MPT   |  1    | +1         |
+| BE    |  0    | -3         |
+| TBA   |  8    |            |
 | Total | 21    | -1         |
 
 = The European results =
